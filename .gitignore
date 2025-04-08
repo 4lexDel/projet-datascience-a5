@@ -1,10 +1,6 @@
 env/
-<<<<<<< Updated upstream
-.venv/
-dataset_livrable_1.zip
-=======
 .venv
 dataset.zip
 dataset/
->>>>>>> Stashed changes
 dataset_livrable_1/
+logs/
