@@ -1,6 +1,7 @@
 env/
 .venv
 dataset.zip
+dataset_livrable_1.zip
 dataset/
 dataset_livrable_1/
 logs/
